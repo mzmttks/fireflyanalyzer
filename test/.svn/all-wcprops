@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/musicrobotsrepos/!svn/ver/401/trunk/sandbox/mizumoto/FrogFireflyAnalyzer3/test
+END
+testLEDMask.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/musicrobotsrepos/!svn/ver/401/trunk/sandbox/mizumoto/FrogFireflyAnalyzer3/test/testLEDMask.py
+END
+testInteractionAnalysis.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/musicrobotsrepos/!svn/ver/401/trunk/sandbox/mizumoto/FrogFireflyAnalyzer3/test/testInteractionAnalysis.py
+END
+CallLocations.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/musicrobotsrepos/!svn/ver/401/trunk/sandbox/mizumoto/FrogFireflyAnalyzer3/test/CallLocations.py
+END
+testCallLocations.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/musicrobotsrepos/!svn/ver/401/trunk/sandbox/mizumoto/FrogFireflyAnalyzer3/test/testCallLocations.py
+END
+testTimeSeries.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/musicrobotsrepos/!svn/ver/401/trunk/sandbox/mizumoto/FrogFireflyAnalyzer3/test/testTimeSeries.py
+END
+testMeanFrame.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/musicrobotsrepos/!svn/ver/401/trunk/sandbox/mizumoto/FrogFireflyAnalyzer3/test/testMeanFrame.py
+END
